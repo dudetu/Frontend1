@@ -1,0 +1,19 @@
+#myDiv {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+  }
+
+  
+
+  
+
+  li {
+    cursor: pointer;
+  }
+  
+  li.completed {
+    text-decoration: line-through;
+    background-color: #ccc;
+  }
+  
